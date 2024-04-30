@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { FC } from "react"
-import { AfogSVG } from '../icons/afog-svg';
+import { AfogSVG } from "@/components/icons/afog-svg"
 
 interface BrandProps {
   theme?: "dark" | "light"
