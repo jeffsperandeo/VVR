@@ -1,6 +1,6 @@
 "use client"
 
-import { AfogSVG } from "@/components/icons/afog-svg"
+import AfogSVG from '../../components/icons/afog-svg';
 import { IconArrowRight } from "@tabler/icons-react"
 import { useTheme } from "next-themes"
 import Link from "next/link"
