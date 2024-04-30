@@ -202,19 +202,19 @@ Once you are in the project dashboard, click on the "Project Settings" icon tab 
 
 Here you will get the values for the following environment variables:
 
-- `Project Ref`: Found in "General settings" as "Reference ID"
+- `Project Ref`: Found in "General settings" as "Reference ID" vcrlnmgmxzjlekkejqgs
 
-- `Project ID`: Found in the URL of your project dashboard (Ex: https://supabase.com/dashboard/project/<YOUR_PROJECT_ID>/settings/general)
+- `Project ID`: Found in the URL of your project dashboard (Ex: https://supabase.com/dashboard/project/<vcrlnmgmxzjlekkejqgs>/settings/general)
 
 While still in "Settings" click on the "API" text tab on the left.
 
 Here you will get the values for the following environment variables:
 
-- `Project URL`: Found in "API Settings" as "Project URL"
+- `Project URL`: Found in "API Settings" as "Project URL" https://vcrlnmgmxzjlekkejqgs.supabase.co
 
-- `Anon key`: Found in "Project API keys" as "anon public"
+- `Anon key`: Found in "Project API keys" as "anon public" eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZjcmxubWdteHpqbGVra2VqcWdzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTQ0OTgzNTEsImV4cCI6MjAzMDA3NDM1MX0.QvyAnGn8P7sH6nUypOZ3PKR8tGTnGLxLbpqeX95Z99M
 
-- `Service role key`: Found in "Project API keys" as "service_role" (Reminder: Treat this like a password!)
+- `Service role key`: Found in "Project API keys" as "service_role" (Reminder: Treat this like a password!) eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZjcmxubWdteHpqbGVra2VqcWdzIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcxNDQ5ODM1MSwiZXhwIjoyMDMwMDc0MzUxfQ.TOTatG_0C_ixn0mXWWCrue9qro7DCMRYqk3YFksIS6c
 
 #### 3. Configure Auth
 
