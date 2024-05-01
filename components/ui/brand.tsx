@@ -20,7 +20,7 @@ export const Brand: FC<BrandProps> = ({ theme = "dark" }) => {
         <AfogSVG theme={theme} scale={0.3} />
       </div>
 
-      <div className="text-4xl font-bold tracking-wide">Aetherframe</div>
+      <div className="text-4xl font-bold tracking-wide">aetherframe</div>
     </Link>
   )
 }

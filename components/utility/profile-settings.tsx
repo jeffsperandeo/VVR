@@ -734,7 +734,7 @@ export const ProfileSettings: FC<ProfileSettingsProps> = ({}) => {
             <WithTooltip
               display={
                 <div>
-                  Download Aetherframe 1.0 data as JSON. Import coming soon!
+                  Download aetherframe 1.0 data as JSON. Import coming soon!
                 </div>
               }
               trigger={

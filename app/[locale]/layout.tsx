@@ -12,10 +12,10 @@ import { ReactNode } from "react"
 import "./globals.css"
 
 const inter = Inter({ subsets: ["latin"] })
-const APP_NAME = "Aetherframe"
-const APP_DEFAULT_TITLE = "Aetherframe"
-const APP_TITLE_TEMPLATE = "%s - Aetherframe"
-const APP_DESCRIPTION = "Aetherframe PWA!"
+const APP_NAME = "aetherframe"
+const APP_DEFAULT_TITLE = "aetherframe"
+const APP_TITLE_TEMPLATE = "%s - aetherframe"
+const APP_DESCRIPTION = "aetherframe PWA!"
 
 interface RootLayoutProps {
   children: ReactNode
