@@ -44,3 +44,9 @@ sw.js
 sw.js.map
 workbox-*.js
 workbox-*.js.map
+
+# Dependencies
+venv/
+
+# Production
+dist/
