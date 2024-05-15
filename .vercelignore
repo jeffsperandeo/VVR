@@ -1,6 +1,17 @@
+# Ignore virtual environment
 venv/
-node_modules/
-__pycache__/
+env/
 *.pyc
+__pycache__/
+
+# Node modules
+node_modules/
+
+# Git and GitHub
+.git/
+.gitignore
+.gitmodules
+
+# Other files
 .DS_Store
 *.log
