@@ -15,3 +15,6 @@ node_modules/
 # Other files
 .DS_Store
 *.log
+chatbot_service.py
+app.py
+vercel.json
